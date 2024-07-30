@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\Bank Management System\Bank Management System\bin\Debug\Bank Management System.exe.config
+C:\Users\HP\source\repos\Bank Management System\Bank Management System\bin\Debug\Bank Management System.exe
+C:\Users\HP\source\repos\Bank Management System\Bank Management System\bin\Debug\Bank Management System.pdb
+C:\Users\HP\source\repos\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.AddAccounts.resources
+C:\Users\HP\source\repos\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Form1.resources
+C:\Users\HP\source\repos\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Mainmenu.resources
+C:\Users\HP\source\repos\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Properties.Resources.resources
+C:\Users\HP\source\repos\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Bank Management System\Bank Management System\obj\Debug\Bank Management System.exe
+C:\Users\HP\source\repos\Bank Management System\Bank Management System\obj\Debug\Bank Management System.pdb
+C:\Users\HP\source\repos\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Setting.resources
+C:\Users\HP\source\repos\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Transaction.resources
+C:\Users\HP\source\repos\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Agents.resources
+C:\Users\HP\source\repos\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Login.resources
